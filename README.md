@@ -23,28 +23,19 @@ My tech-stack
 Lizzi
 [Check it out](https://lizzi-guestlist.netlify.app/)
 
-| Frontend        | Backend           | Other  |
-|:-------------:|:-------------:| -----:|
-|![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=white)|![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)| x |
-|![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&color=white)|![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=black&color=white)|   $12 |
-|  | are neat      |    $1 |
+Fonds voor West
+[Check it out](https://lizzi-guestlist.netlify.app/)
 
-ReactJs 
-Axios
-JavaScript (ES6)
-NodeJs 
-MongoDb 
-Mongoose 
-Express
-PassportJs 
-Bcrypt 
-Nodemailer 
-Cloudinary 
-Multer 
-Heroku
-Netlify
-Material UI
+
+- 🔭 I’m currently working on ...
+[Meritude](https://www.meritude.nl/)
+[School's Cool](https://schoolscoolamsterdam.nl/)
  
+
+- 📫 How to reach me: ...
+[LinkedIn](https://www.linkedin.com/in/dirk-kelderman/)
+Email: dirkkelderman@gmail.com
+
 
 <!--
 **dirkkelderman/dirkkelderman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
