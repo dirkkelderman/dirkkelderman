@@ -1,7 +1,9 @@
 <h1 align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D35AQFqAq2nh_aqpg/profile-framedphoto-shrink_200_200/0/1620121501564?e=1621411200&v=beta&t=6ap-ad5-uU2OGimC2ZAVxQblNKJwKxhJCVitrCzIA4A" width="224px"/><br/>
+  <img src="https://user-images.githubusercontent.com/66555191/118636187-b4406180-b7d4-11eb-915c-7d5d42cfccf1.jpg" width="500px"/><br/>
   ✨ Dirk Kelderman✨
 </h1>
+
+
 
 <p align="center"> 
 My name is Dirk and was born and raised in Amsterdam. Before corona hit I was working as an event manager and entrepreneur, organizing club events and festivals. But today I've dedicaded my life to coding. And I'm glad to say I'm here to stay ;-)
