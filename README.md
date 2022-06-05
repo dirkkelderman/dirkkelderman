@@ -131,7 +131,7 @@ A platform which we're building with former Ironhack bootcamp students. It's mai
     </td>
     <td align="center">
       <ul>
-        <li><a href="https://schoolscoolamsterdam.nl/" target="_blank">Project website</a></li>
+        <li><a href="https://schools-cool-amsterdam-platform-v2.vercel.app/login" target="_blank">Project website</a></li>
       </ul>
     </td>
   </tr>  
