@@ -99,25 +99,24 @@ Fonds voor West
 <img width="441" height="1">
 <p> 
 <small>
-School's Cool
-</small>
+Tante Joke Karaoke Bang</small>
 </p>
 </th>
 <th align="center">
 <img width="441" height="1">
 <p> 
 <small>
-Meritude
+School's Cool Amsterdam
 </small>
 </p>
 </th>
 </tr>
 <tr>
 <td align="center">
-  <img src="https://www.meritude.nl/assets/img/logoM%20kopie.png" width="224px"/>
+  <img src="[https://www.meritude.nl/assets/img/logoM%20kopie.png](https://kind-pond-01ef91d03.1.azurestaticapps.net/static/media/logo_new.cb008f3f7fe22bc8fa99.png)" width="224px"/>
 </td>
 <td align="center">
-      <img src="https://schoolscoolamsterdam.nl/wp-content/uploads/2018/02/schoolscoollogo-02-112x112.png" width="224px"/>
+      <img src="[https://schoolscoolamsterdam.nl/wp-content/uploads/2018/02/schoolscoollogo-02-112x112.png](https://karaoke-app.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftjkb.65fff55e.png&w=640&q=75)" width="224px"/>
 </td>
 </tr>
 <tr>
