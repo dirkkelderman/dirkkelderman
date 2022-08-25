@@ -6,8 +6,13 @@
 
 
 <p align="center"> 
-My name is Dirk and was born and raised in Amsterdam. Before corona hit I was working as an event manager and entrepreneur, organizing club events and festivals. But today I've dedicaded my life to coding. And I'm glad to say I'm here to stay ;-)
-</p>
+I'm an entry level developer with a weak spot for the JAMstack. I like to think about content structures, try top optimise SEO and think of ways to improve performance. I'm working a lot with GraphQL to get all the data I need from an API. But building an API of my own is something what I really like to do too. 
+
+Working as a Digital Project Manager brought me a lot of insights about project planning and working with a development team. But it also made me realise working as a developer is the way I want to move forward. 
+
+Besides working as a project manager I kept myself busy with several side projects. Like a full stack community platform for a local foundation, or several JAMstack based websites for friends and family. 
+
+Before that I graduated of the Ironhack Web development Part-Time course. Learning the ways of the modern web development with writing programming languages like JavaScript (ES6), HTML, CSS and working with a full MERN stack (MongoDB, Express, React, NodeJS).</p>
 
 
 <h2 align="center"> My tech-stack </h5>
@@ -16,8 +21,9 @@ My name is Dirk and was born and raised in Amsterdam. Before corona hit I was wo
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=white)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&color=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&color=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&color=white)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&color=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=white)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&color=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C&color=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=black&color=white)
@@ -119,19 +125,18 @@ Meritude
 A platform which we're building with former Ironhack bootcamp students. It's main focus is to bring mentor's in Amsterdam together as a community and let them share and create relevant content. This can be in the form of a discussion (forum) or E-learning. We're building the MVP now, launch is set for july. 
   </td>
   <td align="center">
-  A recruitment platform which is to be launched august 2021. It's a data inspired website and supports the anonymous way of applying for a job. This is to ensure the qualities of a candidate are top priority, and not your name or country of origin. 
-
+  A karaoke song request app for the most famous Dutch band: Tante Joke Karaoke Band. A full-stack NextJS webapplication with a user side for requesting karaoke songs. And an admin site, to cover all the event creation, moment making and song singing. 
   </td>
 </tr>
   <tr>
     <td align="center">
       <ul>
-        <li><a href="https://www.meritude.nl/" target="_blank">Project website</a></li>
+        <li><a href="https://www.scconnect.nl/" target="_blank">Project website</a></li>
       </ul>
     </td>
     <td align="center">
       <ul>
-        <li><a href="https://schools-cool-amsterdam-platform-v2.vercel.app/login" target="_blank">Project website</a></li>
+        <li><a href="https://tantejokekaraokeband.nl/aanvragen" target="_blank">Project website</a></li>
       </ul>
     </td>
   </tr>  
