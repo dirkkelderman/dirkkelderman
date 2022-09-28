@@ -6,13 +6,7 @@
 
 
 <p align="center"> 
-I'm an entry level developer with a weak spot for the JAMstack. I like to think about content structures, try top optimise SEO and think of ways to improve performance. I'm working a lot with GraphQL to get all the data I need from an API. But building an API of my own is something what I really like to do too. 
-
-Working as a Digital Project Manager brought me a lot of insights about project planning and working with a development team. But it also made me realise working as a developer is the way I want to move forward. 
-
-Besides working as a project manager I kept myself busy with several side projects. Like a full stack community platform for a local foundation, or several JAMstack based websites for friends and family. 
-
-Before that I graduated of the Ironhack Web development Part-Time course. Learning the ways of the modern web development with writing programming languages like JavaScript (ES6), HTML, CSS and working with a full MERN stack (MongoDB, Express, React, NodeJS).</p>
+I'm a web developer with a heart for design and performance. I enjoy building things that look good and work well. My particular skills lie in front-end development, but I have a good understanding of the back- end as well. I'm always keen to learn new technologies and keep up-to- date with the latest trends. I'm also interested in user experience and how to make websites more user-friendly. In my spare time, I like to work on personal projects. I believe that collaboration is essential to making great things. And I'm always happy to help others who are just getting started in web development.</p>
 
 
 <h2 align="center"> My tech-stack </h5>
