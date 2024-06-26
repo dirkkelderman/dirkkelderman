@@ -28,15 +28,6 @@ I'm a web developer with a heart for design and performance. I enjoy building th
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC&color=white)
 
 
-<div align="center">
-  <h3>📫 How to reach me:</h3>
-  [LinkedIn](https://www.linkedin.com/in/dirk-kelderman/)
-  Email: dirkkelderman@gmail.com
-</div>
-  
-
-
-
 <!--
 **dirkkelderman/dirkkelderman** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
