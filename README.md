@@ -1,10 +1,3 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/66555191/118636187-b4406180-b7d4-11eb-915c-7d5d42cfccf1.jpg" width="500px"/><br/>
-  ✨ Dirk Kelderman✨
-</h1>
-
-
-
 <p align="center"> 
 I'm a web developer with a heart for design and performance. I enjoy building things that look good and work well. My particular skills lie in front-end development, but I have a good understanding of the back- end as well. I'm always keen to learn new technologies and keep up-to- date with the latest trends. I'm also interested in user experience and how to make websites more user-friendly. In my spare time, I like to work on personal projects. I believe that collaboration is essential to making great things. And I'm always happy to help others who are just getting started in web development.</p>
 
